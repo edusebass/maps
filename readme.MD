@@ -14,15 +14,15 @@ Esta aplicacion web utiliza un backend para generar y completar y llenar los cam
 
 Tiene un input para poder ingresar el pais que quieres que se pinte.
 
-![Alt text](image-1.png)
+![Alt text](public/img/image-1.png)
 
 Asi se ve pintado
 
-![Alt text](image-2.png)
+![Alt text](public/img/image-2.png)
 
 Tiene un contador para poder ver cuantos paises has visitado.
 
-![Alt text](image-3.png)
+![Alt text](public/img/image-3.png)
 
 ### CONFIGURACION
 
